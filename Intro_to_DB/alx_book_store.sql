@@ -1,6 +1,6 @@
 -- Create database
 CREATE DATABASE IF NOT EXISTS a1x_book_store;
-USE alx_book_store;
+USE a1x_book_store;
 
 -- Create Authors table
 CREATE TABLE IF NOT EXISTS Authors (
